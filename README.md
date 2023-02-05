@@ -1,6 +1,8 @@
 # Portfolio builder
 
-A streamlit based webapp deployed at [here](https://share.streamlit.io/mehulgupta2016154/resume_builder/main)
+### note to self
+* imporve the run time on streamlit cloud by reducing the number of depenances
+
 
 ## Contents
 
@@ -40,6 +42,5 @@ streamlit run streamlit_app.py
 ### If your app is error free, it should get deployed !! My portfolio looks something like this
 
 ![Preview](https://user-images.githubusercontent.com/31255225/147141813-f3d27436-8b94-4ea3-a6dc-dbe804395ff6.png)
-
 
 
