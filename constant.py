@@ -1,5 +1,5 @@
 import pandas as pd
-import graphviz as graphviz
+# import graphviz as graphviz
 
 edu = [['B.Tech','CSE','2020','IIIT Jabalpur','8.1 CGPA'],['12th','Science','2016','Bhavan\'s KDKVM', '94.2%'],['10th','-','2012','Bhavan\'s KDKVM','10 CGPA']]
 
