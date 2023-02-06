@@ -4,14 +4,12 @@ import requests
 import re
 import io
 import streamlit.components.v1 as components
-from graph_builder import *
-from streamlit_player import st_player
-import webbrowser
+# from graph_builder import *
+# from streamlit_player import st_player
+# import webbrowser
 
 
 def CV():
- 
-
     with st.sidebar:
             components.html(embed_component['linkedin'],height=310)
     st.subheader('Summary')
